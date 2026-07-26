@@ -1,6 +1,6 @@
 # Space Invaders Game
 
-Under construction.
+A terminal Space Invaders game with player movement, shooting, enemy waves, scoring, and escalating levels. Built with ratatui and crossterm for retro arcade gameplay in the console.
 
 ## ScreenShots
 
